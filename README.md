@@ -1,5 +1,3 @@
-Build It Bigger App created as a part of Udacity [Android Developer Nanodegree Program](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801).
-
 ## Gradle for Android and Java Final Project
 
 In this project, I created an app with multiple flavors that uses
